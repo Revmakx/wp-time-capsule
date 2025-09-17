@@ -2,9 +2,8 @@
 
 Backup and Staging by WP Time Capsule is an automated incremental backup plugin that backs up your website changes as per your schedule to Dropbox, Google Drive, Amazon S3, Wasabi and Backblaze B2 Cloud.
 
-- Website: https://examplewptc.com/
-- Service: https://service.examplewptc.com
-- Knowledge Base: https://docs.examplewptc.com/
+- Website: https://wptimecapsule.com/
+- Knowledge Base: https://docs.wptimecapsule.com/
 
 ## Requirements
 
@@ -18,7 +17,7 @@ Backup and Staging by WP Time Capsule is an automated incremental backup plugin 
 
 WP Time Capsule was created to ensure peace of mind with WP updates and put the fun back into WordPress. It uses cloud apps' native file versioning system to detect changes and backs up just the changed files and DB entries to your account.
 
-You need to sign up for an account on our website https://service.examplewptc.com to get a 30 days full featured trial.
+You need to sign up for an account on our website https://service.wptimecapsule.com to get a 30 days full featured trial.
 
 ## Key Features
 
@@ -53,8 +52,8 @@ WPTC is unique in 4 ways:
 
 ## How Does It Work?
 
-1. Sign up for an account on https://examplewptc.com and get a 30 days full featured trial.
-2. Install the plugin and login with your examplewptc.com account.
+1. Sign up for an account on https://wptimecapsule.com and get a 30 days full featured trial.
+2. Install the plugin and login with your wptimecapsule.com account.
 3. Connect the cloud app where you want to store backup files (Amazon S3, Wasabi, Dropbox or Google Drive).
 4. Once connected, we automatically begin backing up your complete website to your cloud app account.
 5. After the first full backup, schedule backup times and we'll take care of your backups from here on.
@@ -89,10 +88,10 @@ WPTC is unique in 4 ways:
 
 ### Installation Steps
 
-1. Sign up for an account on https://examplewptc.com and get a 30 days full featured trial.
+1. Sign up for an account on https://wptimecapsule.com and get a 30 days full featured trial.
 2. Login to your WordPress dashboard, under Plugins click Add New
 3. Search for 'WP Time Capsule' or upload the plugin zip file and install it
-4. After installation, login with your examplewptc.com account
+4. After installation, login with your wptimecapsule.com account
 5. Connect with the cloud app that you want to use to backup your site
 6. Once the cloud app is connected, schedule your backup time and we will begin backing up the website to your cloud app according to schedule.
 
@@ -111,7 +110,3 @@ Credits: Michael De Wildt for his WordPress Backup to Dropbox plugin based on wh
 ## Tags
 
 backup, staging, migration, backup before update, auto updates
-
-## Contributors
-
-dark-prince, amritanandh, WPTimeCapsule
